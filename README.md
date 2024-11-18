@@ -9,7 +9,12 @@ A SwiftUI-based AI chat application leveraging the Gemini API to deliver dynamic
 - **Customizable UI**: Built with SwiftUI, allowing easy customization and theming.
 
 ---
+## Screenshots
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/524b6b14-c7b7-4008-b372-a5e753e607ef" alt="Image 1" style="margin: 10px; width: 280px;">
+</p>
 
+---
 ## Requirements
 
 - **iOS 16.0+**
